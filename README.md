@@ -1,5 +1,6 @@
 # Shopping_Customer_Segmentation
 Problem Statement: Understand the target customers for the marketing team to plan a strategy.
+
 Context: Identify the most important shopping groups based on income, age, and the mall shopping score.
 Find the ideal number of groups with a label for each.
 
